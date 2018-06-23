@@ -1,0 +1,21 @@
+{
+  "name": "etf.atgenerator",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Mirza Mesihovic",
+  "contributors": [
+    {
+      "name": "Mirza Mesihovic",
+      "email": "mmesihovic1@etf.unsa.ba"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "atgenerator": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
